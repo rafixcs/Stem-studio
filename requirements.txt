@@ -1,0 +1,10 @@
+PySide6>=6.6
+demucs>=4.0.1
+torch>=2.1,<2.9
+torchaudio>=2.1,<2.9
+librosa>=0.10
+soundfile>=0.12
+sounddevice>=0.4.6
+numpy>=1.24
+pyrubberband>=0.3.0
+scipy>=1.11
